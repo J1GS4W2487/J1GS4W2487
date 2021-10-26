@@ -1,6 +1,6 @@
 
  <h1 align='center'>
-Namaste, I am Jignesh :sunny:  :high_brightness:
+ Namaste, I am Jignesh:star:
 </h1>
 
 <p align='center'>
@@ -41,11 +41,12 @@ A Student of Information Technology from Navi Mumbai, India
 </p>
 
 <!-- 
-<details>
-  <summary>📃 Resume</summary>
- -->
 
-## Education
+ 
+ -->
+<details>
+  <summary>📃 Education</summary>
+
 
 - ⭐ **High School**\
 📘 2007 - 2017\
@@ -59,55 +60,51 @@ A Student of Information Technology from Navi Mumbai, India
 👨‍🎓 2019 - 2023\
 📍 Fr. Conceicao Rodrigues Institute of Technology, Vashi, Navi Mumbai
   
+</details>
+<br>
 
-## Experience
+<details>
+  <summary>📃 Experience</summary><br>
+ 
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html&logoColor=white" />
+<img align="right" src="	https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+
 
 
 - 👨‍💻 **Internship**\
 📆 August 2021\
-📍 The Sparks Foundation
+📍 **The Sparks Foundation** - Navi Mumbai, India
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+
+- 👨‍💻 **Internship**\
+📆 August 2021 - October 2021\
+📍 **Reliance Jio** - Navi Mumbai, India
+</details>
+<br>
+<p>
  
-
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-
-
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
-
-
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
-
-<!--## Skills
+ 
+<h2>Skills</h2>
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img align="right" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
+ 
 **Programming**
 
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+ 
 **Operating Systems**
 
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
@@ -119,16 +116,4 @@ A Student of Information Technology from Navi Mumbai, India
 
 
 
-<!--
-**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
