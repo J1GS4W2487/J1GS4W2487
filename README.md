@@ -1,7 +1,6 @@
 
  <h1 align='center'>
-Namaste, I am Jignesh ![image](https://user-images.githubusercontent.com/68945844/138851754-c001d27f-87a2-42cf-bb0d-023ad4cf2a00.png)
-
+Namaste, I am Jignesh :india:
 </h1>
 
 <p align='center'>
