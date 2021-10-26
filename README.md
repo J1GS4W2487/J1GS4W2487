@@ -69,31 +69,46 @@ A Student of Information Technology from Navi Mumbai, India
 
 
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
- <img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html&logoColor=white" />
-<img align="right" src="	https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1a?logo=JavaScript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/HTML 5-4479A1?logo=HTML5&logoColor=white" />
 
 
 - 👨‍💻 **Internship**\
 📆 August 2021\
 📍 **The Sparks Foundation** - Navi Mumbai, India
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-
+ <br>
+<img align="right" src="https://img.shields.io/badge/Reliance Jio-E34F26?logo=Reliance Industries Limited&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1a?logo=JavaScript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/HTML 5-4479A1?logo=HTML5&logoColor=white" />
+ 
+ 
 - 👨‍💻 **Internship**\
 📆 August 2021 - October 2021\
 📍 **Reliance Jio** - Navi Mumbai, India
 </details>
+
+<img align="right" src="https://img.shields.io/badge/Teams-6264A7?logo=Microsoft Teams&logoColor=white" />
+
+- 👨‍💻 **Meeting Co-ordinator**\
+📍 **The Computer Society Of India, FCRIT-IT** - Navi Mumbai, India
+
+
+</details>
+
+
 <br>
+
+
+
 <p>
- 
  
 <h2>Skills</h2>
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
