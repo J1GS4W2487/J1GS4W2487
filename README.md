@@ -26,6 +26,8 @@ A Student of Information Technology from Navi Mumbai, India
   
   
 </p>
+<br>
+
 
 📈 **My GitHub Stats:**
 
@@ -39,10 +41,10 @@ A Student of Information Technology from Navi Mumbai, India
 <p align='center'>
   📫 How to reach me: <a href='mailto:jigmaths2487@gmail.com'>jigmaths2487@gmail.com</a>
 </p>
-
+<br>
 <details>
   <summary>📃 Education</summary>
-
+<br>
 
 - ⭐ **High School**\
 📘 2007 - 2017\
@@ -92,8 +94,22 @@ A Student of Information Technology from Navi Mumbai, India
 📍 **The Computer Society Of India, FCRIT-IT** - Navi Mumbai, India
 
 </details>
+
+<br>
+<details>
+  <summary>📃 Hobbies</summary>
 <br>
 
+-  **Cycling**
+-  **Trekking**
+-  **Sports**
+-  **Reading**
+-  **Anime**
+-  **Podcasts and GK**
+-  **Music**
+</details>
+
+<br>
 <p>
  
 <h2>Skills</h2>
@@ -125,18 +141,6 @@ A Student of Information Technology from Navi Mumbai, India
 
 </details>
 
-<details>
-  <summary>📃 Hobbies</summary>
-
--  **Cycling**\
--  **Trekking**\
--  **Sports**\
--  **Reading**\
--  **Anime**\
--  **Podcasts and GK**\
--  **Music**\  
-</details>
-<br>
 
 
 
