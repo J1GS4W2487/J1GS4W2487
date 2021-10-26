@@ -44,7 +44,7 @@ A Student of Information Technology from Navi Mumbai, India
 <br>
 <details>
   <summary>📃 Education</summary>
-<br>
+
 
 - ⭐ **High School**\
 📘 2007 - 2017\
