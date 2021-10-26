@@ -1,6 +1,6 @@
 
  <h1 align='center'>
-Namaste, I am Jignesh :india:
+Namaste, I am Jignesh :sunny:  :high_brightness:
 </h1>
 
 <p align='center'>
@@ -40,10 +40,10 @@ A Student of Information Technology from Navi Mumbai, India
   📫 How to reach me: <a href='mailto:jigmaths2487@gmail.com'>jigmaths2487@gmail.com</a>
 </p>
 
-
+<!-- 
 <details>
   <summary>📃 Resume</summary>
-
+ -->
 
 ## Education
 
