@@ -40,10 +40,6 @@ A Student of Information Technology from Navi Mumbai, India
   📫 How to reach me: <a href='mailto:jigmaths2487@gmail.com'>jigmaths2487@gmail.com</a>
 </p>
 
-<!-- 
-
- 
- -->
 <details>
   <summary>📃 Education</summary>
 
@@ -88,31 +84,30 @@ A Student of Information Technology from Navi Mumbai, India
 - 👨‍💻 **Internship**\
 📆 August 2021 - October 2021\
 📍 **Reliance Jio** - Navi Mumbai, India
-</details>
 
+ <br>
 <img align="right" src="https://img.shields.io/badge/Teams-6264A7?logo=Microsoft Teams&logoColor=white" />
 
 - 👨‍💻 **Meeting Co-ordinator**\
 📍 **The Computer Society Of India, FCRIT-IT** - Navi Mumbai, India
 
-
 </details>
-
-
 <br>
-
-
 
 <p>
  
 <h2>Skills</h2>
 
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Git-C71D23?logo=Git&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white" />
 <img align="right" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1a?logo=JavaScript&logoColor=white" />
 
  
 **Programming**
@@ -122,12 +117,26 @@ A Student of Information Technology from Navi Mumbai, India
  
 **Operating Systems**
 
-<img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
+<img align="right" src="https://img.shields.io/badge/Marathi-0078D6?&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Hindi-0078D6?&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/English-0078D6?&logoColor=white" />
 
--->
+**Languages**
 
 </details>
+
+<details>
+  <summary>📃 Hobbies</summary>
+
+-  **Cycling**\
+-  **Trekking**\
+-  **Sports**\
+-  **Reading**\
+-  **Anime**\
+-  **Podcasts and GK**\
+-  **Music**\  
+</details>
+<br>
 
 
 
