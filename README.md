@@ -114,9 +114,7 @@ A Student of Information Technology from Navi Mumbai, India
  
 <h2>Skills</h2>
 
-<img align="right" src="https://img.shields.io/badge/Git-C71D23?logo=Git&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
